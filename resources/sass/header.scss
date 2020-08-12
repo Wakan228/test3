@@ -1,0 +1,46 @@
+header {
+  background-color: #353535;
+}
+body{
+  position: relative;
+}
+main{
+
+  height: (100vh - 57px);
+  width:100%;
+
+}
+
+.row {
+  padding: 10px;
+  margin: 0 !important;
+}
+
+.main_punct {
+  color: #fff;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+footer {
+  position: fixed;
+  /* Фиксированное положение */
+  left: 0;
+  bottom: 0px;
+  /* Левый нижний угол */
+  height: 100px;
+  width: 100%;
+  position: bottom;
+  background-color: #353535;
+}
+
+.slider {
+  max-width: 700px;
+  min-height: 600px;
+}
+
+.logo_box > img {
+  max-height: 50px;
+  max-width: 50px;
+}
