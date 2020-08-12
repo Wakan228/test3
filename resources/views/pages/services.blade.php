@@ -17,7 +17,7 @@
 			<div class="main_box">
 				<div class="main row">
 					<div class="main_punct"><a href="About">About</a></div>
-					<div class="main_punct"><a href="">Contact us</a></div>
+					<div class="main_punct"><a href="Contact">Contact us</a></div>
 				</div>
 			</div>
 		</div>
